@@ -1,4 +1,4 @@
-const sameFrequency = require('./index.js'); // Import the function if in a separate file
+const sameFrequency = require('./index.js'); 
 
 describe("sameFrequency", () => {
     test("returns true for numbers with the same frequency of digits", () => {
