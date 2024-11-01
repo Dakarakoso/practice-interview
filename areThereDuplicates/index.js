@@ -9,13 +9,11 @@ areThereDuplicates('a', 'b', 'c', 'a') // true
 Restrictions:
 
 Time - O(n)
-
 Space - O(n)
 
 Bonus:
 
 Time - O(n log n)
-
 Space - O(1) */
 
 function areThereDuplicates() {

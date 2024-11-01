@@ -11,6 +11,8 @@ sameFrequency(34,14) // false
 sameFrequency(3589578, 5879385) // true
 sameFrequency(22,222) // false */
 
-function sameFrequency(num1, num2) {}
+function sameFrequency(num1, num2) {
+    
+}
 
 module.exports = sameFrequency;
